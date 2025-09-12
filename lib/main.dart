@@ -1,5 +1,6 @@
 import 'package:bittaqwa_1/presentation/screen/dashboard_screen.dart';
 import 'package:bittaqwa_1/presentation/screen/doa_screen.dart';
+import 'package:bittaqwa_1/presentation/screen/dzikir_screen.dart';
 import 'package:bittaqwa_1/presentation/screen/jadwal_sholat_screen.dart';
 import 'package:bittaqwa_1/presentation/screen/video_kajian_screen.dart';
 import 'package:bittaqwa_1/presentation/screen/zakat_screen.dart';
@@ -31,6 +32,7 @@ class MyApp extends StatelessWidget {
         'zakat': (context) => const ZakatScreen(),
         'jadwal-sholat': (context) => const JadwalSholatScreen(),
         'video-kajian': (context) => const VideoKajianScreen(),
+        'dzikir1': (context) => const DzikirScreen(),
       },
     );
   }
