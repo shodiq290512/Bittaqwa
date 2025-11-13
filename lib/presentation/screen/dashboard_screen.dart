@@ -99,7 +99,7 @@ class _DashboardScreenState extends State<DashboardScreen> {
                   color: Colors.white,
                 ),
                 child: Text(
-                  "Assalamu'alaikum sodik",
+                  "Assalamu'alaikum akhi",
                   style: TextStyle(
                     color: Colors.black,
                     fontFamily: 'PoppinsMedium',

@@ -42,7 +42,7 @@ class DetailDoaScreen extends StatelessWidget {
             child: Padding(
               padding: EdgeInsets.all(24),
               child: Container(
-                
+
                 decoration: BoxDecoration(
                   color: Colors.white,
                   borderRadius: BorderRadius.circular(16),
